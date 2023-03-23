@@ -1,0 +1,4 @@
+f. No se puede ver el archivo en el explorador porque pertenece a la rama Opcion_2 y estoy en la rama main.
+Al agregar respuestas.txt en la main y hacer el commit se agrega a la rama main, es decir, no aparece en la gráfica dentro de Opcion_2.
+Al hacer el merge a la rama Opcion_2 desde main se combinan las dos ramas incluyendo los cambios en ambas, en este caso sin conflictos.
+En el gráfico aparece con un punto amarillo la rama donde se está parado y en azul el resto. La descripción de los commits aparecen a un lado de las ramas. En otra sección aparece quién realizó cada commit, la fecha y hora.
